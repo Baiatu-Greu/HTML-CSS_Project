@@ -1,0 +1,30 @@
+/* p.error{
+    color: red;
+}
+p.succes{
+    color: rgb(21, 175, 21);
+}
+p.succes.feedback{
+    border: 1px dashed indigo;
+}
+#content{
+    background-color: #ebebeb;
+    padding: 20px;
+} */
+/* div .error{
+    background-color: #ebebeb;
+    color:indigo;
+} */
+/* a[href*="about"]{
+    background-color: lawngreen;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+a[href$=".com"]{
+    color:black;
+    background-color: gray;
+    border: 2px solid darkgray;
+    text-decoration: none;
+} */
